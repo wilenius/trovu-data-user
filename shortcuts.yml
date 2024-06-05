@@ -3,6 +3,7 @@
 
 examplekeyword 0: http://www.example.com/
 gbo 1: http://books.google.com/books?q=<query>
+gs 1: http://scholar.google.com/scholar?q=<query>
 examplekeyword 2:
   url: http://www.example.com/?q=<query>&p=<puery>
   title: Custom shortcut
