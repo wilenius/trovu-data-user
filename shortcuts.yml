@@ -8,6 +8,7 @@ ddg 1: http://duckduckgo.com/?q=<query>
 k 1: https://kagi.com/search?q=<query>
 wpfi 1: http://fi.wikipedia.org/?search=<query>
 wpid 1: http://id.wikipedia.org/?search=<query>
+wp 1: http://en.wikipedia.org/?search=<query>
 examplekeyword 2:
   url: http://www.example.com/?q=<query>&p=<puery>
   title: Custom shortcut
